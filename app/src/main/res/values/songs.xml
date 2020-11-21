@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sadboi">
+        <item>Sad</item>
+        <item>Everybody dies in their nightmares</item>
+        <item>Jocelyn flores</item>
+        <item>changes</item>
+
+    </string-array>
+
+    <string-array name="otaku">
+        <item>Bink\'s sake</item>
+        <item>Hero\'s comeback</item>
+        <item>Silhouette</item>
+        <item>Black catcher</item>
+    </string-array>
+
+    <string-array name="hype">
+        <item>Rockstar</item>
+        <item>Ride</item>
+        <item>The scotts</item>
+        <item>Look at me</item>
+        <item>Ayo</item>
+        <item>Bomb</item>
+        <item>Go crazy</item>
+        <item>Question</item>
+        <item>Indigo</item>
+        <item>Party</item>
+        <item>With you</item>
+        <item>Privacy</item>
+        <item>Pie</item>
+        <item>Newflame</item>
+        <item>No guidance</item>
+        <item>Together</item>
+        <item>No limit</item>
+
+
+
+    </string-array>
+</resources>
